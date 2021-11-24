@@ -1,5 +1,4 @@
-<img width="240px" src="angular.svg">
-<img width="300px" src="primeng.png">
+<img width="240px" src="angular.svg"><img width="280px" src="primeng.png">
 
 # Índice de aplicaciones de Angular - Curso 2021 / 2022
 
