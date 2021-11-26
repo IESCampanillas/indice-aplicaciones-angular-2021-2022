@@ -7,6 +7,7 @@
 ## Índice a las aplicaciones
 
 * [Apellidos, Nombre - Título de la aplicación](#)
-* López Lozano, Santos - [Por determinar](https://github.com/SantosLopezLozano/proyecto-angular)
+* [López Lozano, Santos - Por determinar](https://github.com/SantosLopezLozano/proyecto-angular)
+* [Andrés Domínguez Javier - Actualmente sin nombre](https://github.com/javierandresaluiescampanillas/my-angular-project)
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
