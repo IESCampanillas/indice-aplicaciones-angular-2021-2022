@@ -6,6 +6,6 @@
 
 ## Índice a las aplicaciones
 
-* [Apellidos, Nombre](#)
+* [Apellidos, Nombre - Título de la aplicación](#)
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
