@@ -10,6 +10,7 @@
 * [López Lozano, Santos - Por determinar](https://github.com/SantosLopezLozano/proyecto-angular)
 * [Andrés Domínguez, Javier - Actualmente sin nombre](https://github.com/javierandresaluiescampanillas/my-angular-project)
 * [Sicilia Pérez, Francisco Javier - Sin determinar](https://github.com/FranSiciliaPerez/my_angular_project)
+* [García Gómez, Sergio - Pokepedia](https://github.com/SergioGarciaGomez/pokepedia-angular.git)
 * [Gutiérrez Ramírez, Jesús María - Comparador nutricional](https://github.com/Jesus-GR/AplicacionAngular)
 * [Fabián El Belaizi, Daniel - Colección de animales domésticos](https://github.com/Danny-06/Coleccion-de-animales-domesticos)
 
