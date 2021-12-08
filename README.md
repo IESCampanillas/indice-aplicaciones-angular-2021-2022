@@ -12,6 +12,7 @@
 * [García Gómez, Sergio - Pokepedia](https://github.com/SergioGarciaGomez/pokepedia-angular.git)
 * [Gutiérrez Ramírez, Jesús María - Comparador nutricional](https://github.com/Jesus-GR/AplicacionAngular)
 * [López Lozano, Santos - Por determinar](https://github.com/SantosLopezLozano/proyecto-angular)
+* [Rodríguez - Barbero Verdera, David - MatterAccounting](https://github.com/Davidrbv/MatterAccounting)
 * [Sicilia Pérez, Francisco Javier - Sin determinar](https://github.com/FranSiciliaPerez/my_angular_project)
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
