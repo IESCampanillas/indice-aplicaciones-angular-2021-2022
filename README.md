@@ -8,6 +8,7 @@
 
 * [Apellidos, Nombre - Título de la aplicación](#)
 * [Andrés Domínguez, Javier - Actualmente sin nombre](https://github.com/javierandresaluiescampanillas/my-angular-project)
+* [Egea Hermoso, Adrián - Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecangular)
 * [Fabián El Belaizi, Daniel - Colección de animales domésticos](https://github.com/Danny-06/Coleccion-de-animales-domesticos)
 * [García Gómez, Sergio - Pokepedia](https://github.com/SergioGarciaGomez/pokepedia-angular.git)
 * [Gutiérrez Ramírez, Jesús María - Comparador nutricional](https://github.com/Jesus-GR/AplicacionAngular)
