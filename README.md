@@ -2,7 +2,7 @@
 
 # Índice de aplicaciones de Angular - Curso 2021 / 2022
 
-[Enunciado con los requisitos de la aplicación](trabajo_angular_v1.pdf)
+[Enunciado con los requisitos de la aplicación](trabajo_angular_v2.pdf)
 
 ## Índice a las aplicaciones
 
