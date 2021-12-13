@@ -17,6 +17,6 @@
 * [Millán Rebollo, Noel - Femore](https://github.com/NoelMillan/angular-project.git)
 * [Rodríguez - Barbero Verdera, David - MatterAccounting](https://github.com/Davidrbv/MatterAccounting)
 * [Sicilia Pérez, Francisco Javier - Sin determinar](https://github.com/FranSiciliaPerez/my_angular_project)
-* [Salmerón Robles, Gonzalo José - RickMoryApi](https://github.com/gonzalosalmeron/rickmortyapit)
+* [Salmerón Robles, Gonzalo José - RickMoryApi](https://github.com/gonzalosalmeron/rickmortyapi)
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
