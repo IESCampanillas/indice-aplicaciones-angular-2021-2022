@@ -15,8 +15,10 @@
 * [Gutiérrez Ramírez, Jesús María - Comparador nutricional](https://github.com/Jesus-GR/AplicacionAngular)
 * [López Lozano, Santos - Por determinar](https://github.com/SantosLopezLozano/proyecto-angular)
 * [Millán Rebollo, Noel - Femore](https://github.com/NoelMillan/angular-project.git)
+* [Moreno Rodríguez, Javier - Nature](https://github.com/Javiemr/Proyecto-Angular)
 * [Rodríguez - Barbero Verdera, David - MatterAccounting](https://github.com/Davidrbv/MatterAccounting)
 * [Sicilia Pérez, Francisco Javier - Sin determinar](https://github.com/FranSiciliaPerez/my_angular_project)
 * [Salmerón Robles, Gonzalo José - RickMoryApi](https://github.com/gonzalosalmeron/rickmortyapi)
+* 
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
