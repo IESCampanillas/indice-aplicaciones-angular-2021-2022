@@ -15,6 +15,7 @@
 * [Gutiérrez Ramírez, Jesús María - Comparador nutricional](https://github.com/Jesus-GR/AplicacionAngular)
 * [López Lozano, Santos - Por determinar](https://github.com/SantosLopezLozano/proyecto-angular)
 * [Millán Rebollo, Noel - Femore](https://github.com/NoelMillan/angular-project.git)
+* [Morales Aragón, Marcos - MHW-Wiki](https://github.com/MarcosMoralesAragon/MHW-Wiki)
 * [Moreno Rodríguez, Javier - Nature](https://github.com/Javiemr/Proyecto-Angular)
 * [Rodríguez - Barbero Verdera, David - MatterAccounting](https://github.com/Davidrbv/MatterAccounting)
 * [Sicilia Pérez, Francisco Javier - Sin determinar](https://github.com/FranSiciliaPerez/my_angular_project)
