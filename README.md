@@ -7,7 +7,7 @@
 ## Índice a las aplicaciones
 
 * [Apellidos, Nombre - Título de la aplicación](#)
-* [Andrés Domínguez, Javier - Dice-Roller](https://github.com/javierandresaluiescampanillas/my-angular-project)
+* [Andrés Domínguez, Javier - Dice-Roller](https://github.com/javierandresaluiescampanillas/dice-roller)
 * [Buendía López, Jairo - DragonBallWiki](https://github.com/jairobuendia/DragonBallWiki)
 * [Egea Hermoso, Adrián - Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecangular)
 * [Fabián El Belaizi, Daniel - Colección de animales domésticos](https://github.com/Danny-06/Coleccion-de-animales-domesticos)
