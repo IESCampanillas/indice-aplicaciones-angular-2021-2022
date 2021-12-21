@@ -11,6 +11,7 @@
 * [Buendía López, Jairo - DragonBallWiki](https://github.com/jairobuendia/DragonBallWiki)
 * [De Abrisqueta, Ander - Pulserástica](https://github.com/AnderDeAbrisqueta/pulserastica)
 * [Egea Hermoso, Adrián - Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecangular)
+* [Estrada Cobo, Jose Manuel - Newsuty](https://github.com/JoseEstradaC/Newsuty)
 * [Fabián El Belaizi, Daniel - Colección de animales domésticos](https://github.com/Danny-06/Coleccion-de-animales-domesticos)
 * [García Gómez, Sergio - Pokepedia](https://github.com/SergioGarciaGomez/pokepedia-angular.git)
 * [Gutiérrez Ramírez, Jesús María - Comparador nutricional](https://github.com/Jesus-GR/AplicacionAngular)
