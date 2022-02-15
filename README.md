@@ -1,6 +1,4 @@
-<img width="360px" src="angular-y-primeng.png">
-<img width="360px" src="firebase.png">
-
+<img width="360px" src="angular-y-primeng.png"><img width="360px" src="firebase.png">
 
 # Índice de aplicaciones de Angular - Curso 2021 / 2022
 
