@@ -15,7 +15,7 @@ En el segundo trimestre, para todos los alumnos, tanto duales como no duales, es
 ### 🗓️ Plazos de entrega
 
 * **Jueves 10 de marzo a las 23:59**: Límite para las actualizaciones del repositorio de la aplicación. 
-* **Viernes 11 de marzo**: Presentación conjunta con la aplicación de Ionic (asignatura AD) por estricto orden de lista.
+* **Viernes 11 de marzo**: Presentación por estricto orden de lista. Para los alumnos no duales, la presentación se hará de forma conjunta con la aplicación de Ionic (asignatura AD)
 
 ### :iphone: Índice a las aplicaciones
 
