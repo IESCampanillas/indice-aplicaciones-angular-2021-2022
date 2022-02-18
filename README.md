@@ -20,6 +20,6 @@ En el segundo trimestre, para todos los alumnos, tanto duales como no duales, es
 ### :iphone: Índice a las aplicaciones
 
 * Apellidos, Nombre - [Título de la aplicación]()
-* Rodriguez - Barbero Verdera, David [Matters](https://github.com/Davidrbv/Matters)
+* Rodriguez - Barbero Verdera, David [Matters](https://github.com/Davidrbv/MatterAccounting)
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
