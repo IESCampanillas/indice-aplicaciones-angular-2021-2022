@@ -19,6 +19,7 @@ En el segundo trimestre, para todos los alumnos, tanto duales como no duales, es
 
 ### :iphone: Índice a las aplicaciones
 
+* De Abrisqueta Rangel, Ander - [Pulserástica](https://github.com/AnderDeAbrisqueta/pulserastica)
 * Egea Hermoso, Adrián - [Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecangular)
 * Rodriguez - Barbero Verdera, David [MattersAccounting](https://github.com/Davidrbv/MatterAccounting)
 
