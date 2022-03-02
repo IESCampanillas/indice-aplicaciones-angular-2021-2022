@@ -22,6 +22,7 @@ La autenticación de usuarios con Firebase no es obligatoria, se deja como carac
 
 * De Abrisqueta Rangel, Ander - [Pulserástica](https://github.com/AnderDeAbrisqueta/pulserastica)
 * Egea Hermoso, Adrián - [Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecangular)
-* Rodriguez - Barbero Verdera, David [MattersAccounting](https://github.com/Davidrbv/MatterAccounting)
+* Rodriguez Barbero Verdera, David [MattersAccounting](https://github.com/Davidrbv/MatterAccounting)
+* Fabián El Belaizi, Daniel [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-angular-v2)
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
