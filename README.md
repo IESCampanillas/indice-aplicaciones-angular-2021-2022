@@ -10,7 +10,8 @@
 
 En el segundo trimestre, para todos los alumnos, tanto duales como no duales, es obligatorio entregar una aplicación realizada en Angular que cumpla todos los requisitos que se pedían para la del primer trimestre además de los siguientes:
 * Almacenamiento de datos en Firebase
-* Autenticación de usuarios con Firebase
+
+La autenticación de usuarios con Firebase no es obligatoria, se deja como característica opcional.
 
 ### 🗓️ Plazos de entrega
 
