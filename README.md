@@ -25,5 +25,6 @@ La autenticación de usuarios con Firebase no es obligatoria, se deja como carac
 * Rodriguez Barbero Verdera, David - [MattersAccounting](https://github.com/Davidrbv/MatterAccounting)
 * Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-angular-v2)
 * Sevilla Valderrama, Fernando Iván - [LolApiRes](https://github.com/FESEVA/angular-lolApiRes)
+* Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/angular-project)
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
