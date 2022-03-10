@@ -19,6 +19,7 @@ La autenticación de usuarios con Firebase no es obligatoria, se deja como carac
 * **Viernes 11 de marzo**: Presentación por estricto orden de lista. Para los alumnos no duales, la presentación se hará de forma conjunta con la aplicación de Ionic (asignatura AD)
 
 ### :iphone: Índice a las aplicaciones
+* Andres Domínguez, Javier - [Dice-Roller](https://github.com/javierandresaluiescampanillas/dice-roller)
 * Buendía López, Jairo - [DragonBallWiki](https://github.com/jairobuendia/DragonBallWiki)
 * De Abrisqueta Rangel, Ander - [Pulserástica](https://github.com/AnderDeAbrisqueta/pulserastica)-[HarenaAngularApp](https://github.com/AnderDeAbrisqueta/HarenaAngularApp)
 * Egea Hermoso, Adrián - [FilmHome](https://github.com/AdrianEgeaHermoso/FilmHome_Angular)
