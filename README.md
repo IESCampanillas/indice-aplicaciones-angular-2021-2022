@@ -24,7 +24,7 @@ La autenticación de usuarios con Firebase no es obligatoria, se deja como carac
 * Egea Hermoso, Adrián - [FilmHome](https://github.com/AdrianEgeaHermoso/FilmHome_Angular)
 * Estrada Cobo, Jose Manuel - [Task-List](https://github.com/JoseEstradaC/task-list)
 * Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-angular-v2)
-* López Pérez, Cruz - [Clinica Nilo](https://github.com/mcruzlp/clinicaniloangularappMarzoVersion)
+* López Pérez, Cruz - [Clínica Nilo](https://github.com/mcruzlp/clinicaniloangularappMarzoVersion)
 * Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/angular-project)
 * Moreno Rodríguez, Javier - [Nature](https://github.com/Javiemr/AngularProjecto)
 * Rodriguez Barbero Verdera, David - [MattersAccounting](https://github.com/Davidrbv/MatterAccounting)
