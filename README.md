@@ -19,15 +19,15 @@ La autenticación de usuarios con Firebase no es obligatoria, se deja como carac
 * **Viernes 11 de marzo**: Presentación por estricto orden de lista. Para los alumnos no duales, la presentación se hará de forma conjunta con la aplicación de Ionic (asignatura AD)
 
 ### :iphone: Índice a las aplicaciones
-
-* De Abrisqueta Rangel, Ander - [Pulserástica](https://github.com/AnderDeAbrisqueta/pulserastica)
 * Buendía López, Jairo - [DragonBallWiki](https://github.com/jairobuendia/DragonBallWiki)
+* De Abrisqueta Rangel, Ander - [Pulserástica](https://github.com/AnderDeAbrisqueta/pulserastica)
 * Egea Hermoso, Adrián - [FilmHome](https://github.com/AdrianEgeaHermoso/FilmHome_Angular)
 * Estrada Cobo, Jose Manuel - [Task-List](https://github.com/JoseEstradaC/task-list)
-* Rodriguez Barbero Verdera, David - [MattersAccounting](https://github.com/Davidrbv/MatterAccounting)
 * Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-angular-v2)
-* Sevilla Valderrama, Fernando Iván - [LolApiRes](https://github.com/FESEVA/angular-lolApiRes)
+* López Pérez, Cruz - [Clinica Nilo](https://github.com/mcruzlp/clinicaniloangularappMarzoVersion)
 * Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/angular-project)
 * Moreno Rodríguez, Javier - [Nature](https://github.com/Javiemr/AngularProjecto)
+* Rodriguez Barbero Verdera, David - [MattersAccounting](https://github.com/Davidrbv/MatterAccounting)
+* Sevilla Valderrama, Fernando Iván - [LolApiRes](https://github.com/FESEVA/angular-lolApiRes)
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
