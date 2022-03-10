@@ -23,6 +23,7 @@ La autenticación de usuarios con Firebase no es obligatoria, se deja como carac
 * De Abrisqueta Rangel, Ander - [Pulserástica](https://github.com/AnderDeAbrisqueta/pulserastica)
 * Buendía López, Jairo - [DragonBallWiki](https://github.com/jairobuendia/DragonBallWiki)
 * Egea Hermoso, Adrián - [FilmHome](https://github.com/AdrianEgeaHermoso/FilmHome_Angular)
+* Estrada Cobo, Jose Manuel - [Task-List](https://github.com/JoseEstradaC/task-list)
 * Rodriguez Barbero Verdera, David - [MattersAccounting](https://github.com/Davidrbv/MatterAccounting)
 * Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-angular-v2)
 * Sevilla Valderrama, Fernando Iván - [LolApiRes](https://github.com/FESEVA/angular-lolApiRes)
