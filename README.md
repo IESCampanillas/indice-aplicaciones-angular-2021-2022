@@ -30,6 +30,7 @@ La autenticación de usuarios con Firebase no es obligatoria, se deja como carac
 * Morales Aragón, Marcos - [MHW-Wiki 2.0](https://github.com/MarcosMoralesAragon/MHW-Wiki/tree/2.0)
 * Moreno Rodríguez, Javier - [Nature](https://github.com/Javiemr/AngularProjecto)
 * Rodriguez Barbero Verdera, David - [MattersAccounting](https://github.com/Davidrbv/MatterAccounting)
+* Salmerón Robles, Gonzalo José - [RickMortyApi](https://github.com/gonzalosalmeron/rickmortyapi)
 * Sevilla Valderrama, Fernando Iván - [LolApiRes](https://github.com/FESEVA/angular-lolApiRes)
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
