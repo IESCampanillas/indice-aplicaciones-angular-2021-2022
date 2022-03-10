@@ -26,6 +26,7 @@ La autenticación de usuarios con Firebase no es obligatoria, se deja como carac
 * Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-angular-v2)
 * López Pérez, Cruz - [Clínica Nilo](https://github.com/mcruzlp/clinicaniloangularappMarzoVersion)
 * Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/angular-project)
+* Morales Aragón, Marcos - [MHW-Wiki 2.0](https://github.com/MarcosMoralesAragon/MHW-Wiki/tree/2.0)
 * Moreno Rodríguez, Javier - [Nature](https://github.com/Javiemr/AngularProjecto)
 * Rodriguez Barbero Verdera, David - [MattersAccounting](https://github.com/Davidrbv/MatterAccounting)
 * Sevilla Valderrama, Fernando Iván - [LolApiRes](https://github.com/FESEVA/angular-lolApiRes)
