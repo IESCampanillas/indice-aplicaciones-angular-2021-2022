@@ -32,6 +32,6 @@ La autenticación de usuarios con Firebase no es obligatoria, se deja como carac
 * Rodriguez Barbero Verdera, David - [MattersAccounting](https://github.com/Davidrbv/MatterAccounting)
 * Salmerón Robles, Gonzalo José - [RickMortyApi](https://github.com/gonzalosalmeron/rickmortyapi)
 * Sevilla Valderrama, Fernando Iván - [LolApiRes](https://github.com/FESEVA/angular-lolApiRes)
-* Gutiérrez Ramírez, Jesús Gutiérrez - [TODO3D](https://github.com/Jesus-GR/tienda3D.git)
+* Gutiérrez Ramírez, Jesús Gutiérrez - [TODO3D](https://github.com/Jesus-GR/tienda3D)
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
