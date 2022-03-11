@@ -21,7 +21,7 @@ La autenticación de usuarios con Firebase no es obligatoria, se deja como carac
 ### :iphone: Índice a las aplicaciones
 * Andres Domínguez, Javier - [Dice-Roller](https://github.com/javierandresaluiescampanillas/dice-roller)
 * Buendía López, Jairo - [DragonBallWiki](https://github.com/jairobuendia/DragonBallWiki)
-* De Abrisqueta Rangel, Ander - [Pulserástica](https://github.com/AnderDeAbrisqueta/pulserastica)-[HarenaAngularApp](https://github.com/AnderDeAbrisqueta/HarenaAngularApp)
+* De Abrisqueta Rangel, Ander - [Pulserástica](https://github.com/AnderDeAbrisqueta/pulserastica)-[HarenaAngularApp](https://github.com/AnderDeAbrisqueta/HarenaAngularApp)-[Shopping-list-ionic-firebase](https://github.com/AnderDeAbrisqueta/shoppinglist-ionic-firebase)
 * Egea Hermoso, Adrián - [FilmHome](https://github.com/AdrianEgeaHermoso/FilmHome_Angular)
 * Estrada Cobo, Jose Manuel - [Task-List](https://github.com/JoseEstradaC/task-list)
 * Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-angular-v2)
