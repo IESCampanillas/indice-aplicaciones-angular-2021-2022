@@ -34,4 +34,20 @@ La autenticación de usuarios con Firebase no es obligatoria, se deja como carac
 * Sevilla Valderrama, Fernando Iván - [LolApiRes](https://github.com/FESEVA/angular-lolApiRes)
 * Gutiérrez Ramírez, Jesús Gutiérrez - [TODO3D](https://github.com/Jesus-GR/tienda3D)
 
+## 3<sup>er</sup> TRIMESTRE (RECUPERACIÓN)
+
+Los alumnos que no hayan aprobado la aplicación de Angular en el primer y/o segundo trimestre, deberán entregarla en la fecha que se indica más abajo, cumpliendo los requisitos que se pedían en ambos casos, es decir, los requerimientos indicados en [este documento](trabajo_angular_v2.pdf) más el almacenamiento de datos en Firebase.
+
+Cada alumno debe enlazar el repositorio de su aplicación en el siguiente índice:
+
+### :iphone: Índice a las aplicaciones
+
+* Apellidos, Nombre - []()
+
+### 🗓️ Plazos de entrega
+
+* **Viernes 1 de abril**: Repositorio de la aplicación creado y enlazado desde el índice. Título y descripción de la aplicación indicando las principales funcionalidades.
+* **Viernes 29 de abril**: Revisión del trabajo realizado. La aplicación debe tener ya buena parte de las funcionalidades implementadas. Se deben mostrar capturas de pantalla en el `README.md` del repositorio.
+* **Viernes 20 de mayo**: Presentación de la aplicación.
+
 :star: Si te ha gustado este repo, dale una estrellita :wink:
