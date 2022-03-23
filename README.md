@@ -42,7 +42,7 @@ Cada alumno debe enlazar el repositorio de su aplicación en el siguiente índic
 
 ### :iphone: Índice a las aplicaciones
 
-* Apellidos, Nombre - []()
+* Apellidos, Nombre - [Título]()
 
 ### 🗓️ Plazos de entrega
 
