@@ -44,6 +44,7 @@ Cada alumno debe enlazar el repositorio de su aplicación en el siguiente índic
 
 * Apellidos, Nombre - [Título]()
 * López Lozano, Santos - [Animeflix](https://github.com/SantosLopezLozano/AnimeflixAngular)
+* Sicilia Pérez, Francisco Javier - [GamesToPlay](https://github.com/FranSiciliaPerez/GamesToPlay/blob/main/README.md#gamestoplay)
 
 ### 🗓️ Plazos de entrega
 
